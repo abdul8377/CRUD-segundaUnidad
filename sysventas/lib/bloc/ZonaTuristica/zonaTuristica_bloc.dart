@@ -6,8 +6,8 @@ import 'package:meta/meta.dart';
 import 'package:sysventas/modelo/ZonasTuristicasModelo.dart';
 import 'package:sysventas/repository/ZonaTuristicaRepository.dart';
 
-part 'emprendimiento_event.dart';
-part 'emprendimiento_state.dart';
+part 'zonaTuristica_event.dart';
+part 'zonaTuristica_state.dart';
 
 
 

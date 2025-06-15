@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:sysventas/bloc/ZonaTuristica/emprendimiento_bloc.dart';
+import 'package:sysventas/bloc/ZonaTuristica/zonaTuristica_bloc.dart';
 import 'package:sysventas/bloc/emprendimiento_bloc.dart';
 import 'package:sysventas/modelo/EmprendimientoModelo.dart';
 import 'package:sysventas/modelo/ZonasTuristicasModelo.dart';

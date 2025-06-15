@@ -1,4 +1,4 @@
-part of 'emprendimiento_bloc.dart';
+part of 'zonaTuristica_bloc.dart';
 
 @immutable
 sealed class ZonaTuristicaState {}

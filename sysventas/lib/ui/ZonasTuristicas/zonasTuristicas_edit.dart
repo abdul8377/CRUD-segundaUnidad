@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:sysventas/bloc/ZonaTuristica/emprendimiento_bloc.dart';
+import 'package:sysventas/bloc/ZonaTuristica/zonaTuristica_bloc.dart';
 import 'package:sysventas/modelo/ZonasTuristicasModelo.dart';
 
 

@@ -73,6 +73,7 @@ dependencies:
       url: https://github.com/serenader2014/flutter_carousel_slider.git
       ref: master
   cached_network_image: ^3.2.3
+  flutter_svg: ^2.0.7
 
 dev_dependencies:
   flutter_test:
